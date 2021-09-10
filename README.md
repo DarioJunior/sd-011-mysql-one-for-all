@@ -1,9 +1,3 @@
-### Termos e acordos
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
-
----
-
 # Boas vindas ao repositório do projeto One For All!
 
 Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo e, se tiver qualquer dúvida, nos envie por Slack! #vqv 🚀
@@ -14,17 +8,21 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 # SUMÁRIO
 
+- [Boas vindas ao repositório do projeto One For All!](#boas-vindas-ao-repositório-do-projeto-one-for-all)
+- [SUMÁRIO](#sumário)
 - [Habilidades](#habilidades)
 - [Entregáveis](#entregáveis)
   - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
   - [Desenvolvimento](#desenvolvimento)
-  - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
+  - [Data de Entrega](#data-de-entrega)
+  - [Instruções para entregar seu projeto:](#instruções-para-entregar-seu-projeto)
+    - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
   - [Durante o desenvolvimento](#durante-o-desenvolvimento)
 - [Como desenvolver](#como-desenvolver)
+  - [⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️](#️-é-importante-que-seus-arquivos-tenham-exatamente-estes-nomes-️)
   - [Problema a ser resolvido](#problema-a-ser-resolvido)
-  - [Implmentações técnicas](#implementações-técnicas)
+  - [Normalize as tabelas para a 3ª Forma Normal](#normalize-as-tabelas-para-a-3ª-forma-normal)
+  - [Implementações técnicas](#implementações-técnicas)
 - [Requisitos do projeto](#requisitos-do-projeto)
   - [Desafio 1](#desafio-1)
   - [Desafio 2](#desafio-2)
@@ -37,8 +35,8 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
   - [Desafio 9](#desafio-9)
   - [Desafio 10](#desafio-10)
   - [Desafio 11](#desafio-11)
-- [Depois de terminar o desenvolvimento](#depois-de-terminar-o-desenvolvimento)
-- [Revisando um pull request](#revisando-um-pull-request)
+  - [Depois de terminar o desenvolvimento](#depois-de-terminar-o-desenvolvimento)
+    - [Revisando um pull request](#revisando-um-pull-request)
 - [Avisos Finais](#avisos-finais)
 
 ---
