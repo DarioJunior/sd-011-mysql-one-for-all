@@ -3,19 +3,19 @@
 # Habilidades
 Neste projeto são aplicados os seguintes conhecimentos:
 
-  * Modelar um banco de dados
+  * Modelagem de um banco de dados
 
-  * Identificar entidades , atributos e relacionamentos
+  * Identificação de entidades , atributos e relacionamentos
   
-  * Aplicar a 1ª, 2ª e 3ª Forma Normal
+  * Aplicação das 1ª, 2ª e 3ª Formas Normais
 
-  * Criar tabelas
+  * Criação de tabelas
   
   * Lidar com VIEWs
 
-  * Alterar tabelas existentes
+  * Alteração tabelas existentes
 
-  * Criar reações dinâmicas com TRIGGERS
+  * Criação de reações dinâmicas com TRIGGERS
 
 ---
 
